@@ -1,0 +1,37 @@
+#bodybg{
+  background-color: black;
+}
+.container {
+  text-align: center;
+  margin-top: 20%;
+  font-weight: bolder;
+}
+
+h1 {
+  font-size: 24px;
+  color: lightgoldenrodyellow;
+}
+
+#quote {
+  font-size: 18px;
+  margin: 20px 0;
+  padding: auto;
+  font-weight: bolder;
+  background-color: black;
+  color: yellow;
+}
+
+#generateBtn {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  color:darkred;
+  background-color:lightgreen;
+  font-weight: bolder;
+}
+
+#generateBtn:hover {
+  background-color: yellow;
+  color: darkslategrey;
+  font-weight: bolder;
+}
